@@ -1,0 +1,310 @@
+{
+ "query": {
+  "count": 41,
+  "created": "2017-03-29T07:45:17Z",
+  "lang": "en-US",
+  "diagnostics": {
+   "publiclyCallable": "true",
+   "url": {
+    "execution-start-time": "1",
+    "execution-stop-time": "1858",
+    "execution-time": "1857",
+    "content": "http://www.ideal.es/jaen/rss/2.0/portada"
+   },
+   "user-time": "1859",
+   "service-time": "1857",
+   "build-version": "2.0.84"
+  },
+  "results": {
+   "item": [
+    {
+     "title": " Seis afectados por inhalación de humo en el incendio de una vivienda en Quesada ",
+     "guid": "\n                                    http://www.ideal.es/jaen/provincia-jaen/201703/29/seis-afectados-inhalacion-humo-20170329090840.html\n                          ",
+     "link": "http://www.ideal.es/jaen/provincia-jaen/201703/29/seis-afectados-inhalacion-humo-20170329090840.html",
+     "pubDate": "Wed, 29 Mar 2017 05:09:24 +0200",
+     "description": " Entre los heridos se encuentra un bebé y el resto de integrantes de la misma familia "
+    },
+    {
+     "title": " Pepi Alcántara se perfila como presidenta de OCO ",
+     "guid": "\n                                    http://www.ideal.es/jaen/jaen/201703/29/pepi-alcantara-perfila-como-20170329025118.html\n                          ",
+     "link": "http://www.ideal.es/jaen/jaen/201703/29/pepi-alcantara-perfila-como-20170329025118.html",
+     "pubDate": "Tue, 28 Mar 2017 22:52:46 +0200",
+     "description": " Cuenta con el apoyo de la actual federación vecinal para sustituir a María Cantos "
+    },
+    {
+     "title": " Uno de los empresarios detenidos en la operación Paraíso denuncia a la Policía por detención ilegal ",
+     "guid": "\n                                    http://www.ideal.es/jaen/jaen/201703/28/empresarios-detenidos-operacion-paraiso-20170328200525.html\n                          ",
+     "link": "http://www.ideal.es/jaen/jaen/201703/28/empresarios-detenidos-operacion-paraiso-20170328200525.html",
+     "pubDate": "Tue, 28 Mar 2017 16:06:37 +0200",
+     "description": " Su apresamiento se produjo el pasado 19 de septiembre del 2016 en el marco de una operación en la que se investigaba la contratación de una campaña de publicidad por la Diputación Provincial a cuatro empresas de Jaén "
+    },
+    {
+     "title": " Hogarsur dejará los parkings ",
+     "guid": "\n                                    http://www.ideal.es/jaen/linares/201703/29/hogarsur-dejara-parkings-20170329005235-v.html\n                          ",
+     "link": "http://www.ideal.es/jaen/linares/201703/29/hogarsur-dejara-parkings-20170329005235-v.html",
+     "pubDate": "Tue, 28 Mar 2017 21:18:31 +0200",
+     "description": " El Pleno del Ayuntamiento de Linares aprueba rescindir el contrato a esta empresa para gestionar este servicio "
+    },
+    {
+     "title": " La Historia de Linares se cuela en el Día Mundial del Teatro ",
+     "guid": "\n                                    http://www.ideal.es/jaen/linares/201703/29/historia-linares-cuela-mundial-20170329005235-v.html\n                          ",
+     "link": "http://www.ideal.es/jaen/linares/201703/29/historia-linares-cuela-mundial-20170329005235-v.html",
+     "pubDate": "Tue, 28 Mar 2017 21:20:02 +0200",
+     "description": " La asociación 'Turi Arte' representó la obra 'A través del tiempo', con la que arrancaron las jornadas del arte escénico 'CreArte' "
+    },
+    {
+     "title": " Abuelo, ¿por qué ya no me cuentas cuentos? ",
+     "guid": "\n                                    http://www.ideal.es/jaen/provincia-jaen/201703/29/abuelo-cuentas-cuentos-20170329005235-v.html\n                          ",
+     "link": "http://www.ideal.es/jaen/provincia-jaen/201703/29/abuelo-cuentas-cuentos-20170329005235-v.html",
+     "pubDate": "Tue, 28 Mar 2017 21:29:14 +0200",
+     "description": " La Asociación de Alzhéimer Felipa Delgado, de La Carolina, recauda fondos para llevar a cabo proyectos que beneficien a sus usuarios y familias "
+    },
+    {
+     "title": " Hacienda pacta con los sindicatos hacer fijos al 90% de los empleados públicos temporales ",
+     "guid": "\n                                    http://www.ideal.es/economia/trabajo/201703/29/hacienda-pacta-sindicatos-hacer-20170329090954-rc.html\n                          ",
+     "link": "http://www.ideal.es/economia/trabajo/201703/29/hacienda-pacta-sindicatos-hacer-20170329090954-rc.html",
+     "pubDate": "Wed, 29 Mar 2017 05:18:14 +0200",
+     "description": " El acuerdo será firmado hoy por ambas partes y beneficiará en tres años a 350.000 trabajadores de la administración "
+    },
+    {
+     "title": " El peligro de la carne en mal estado ",
+     "guid": "\n                                    http://www.ideal.es/sociedad/201703/29/peligro-carne-estado-20170327100040.html\n                          ",
+     "link": "http://www.ideal.es/sociedad/201703/29/peligro-carne-estado-20170327100040.html",
+     "pubDate": "Tue, 28 Mar 2017 21:08:48 +0200",
+     "description": " Sanidad analiza 30 partidas procedentes de Brasil, donde algunas empresas enmascaraban su producto en mal estado. España establece varios filtros antes de que la mercancía llegue a los comercios "
+    },
+    {
+     "title": " La capital de los ¿cinco? centros comerciales ",
+     "guid": "\n                                    http://www.ideal.es/jaen/jaen/201703/29/capital-cinco-centros-comerciales-20170329005235-v.html\n                          ",
+     "link": "http://www.ideal.es/jaen/jaen/201703/29/capital-cinco-centros-comerciales-20170329005235-v.html",
+     "pubDate": "Tue, 28 Mar 2017 21:15:37 +0200",
+     "description": " El pistoletazo oficial de las obras del 'Jaén Plaza', que planea abrir sus puertas en meses, pone el foco sobre el resto de proyectos similares: en este punto se encuentran "
+    },
+    {
+     "title": " Lucasfilm dedicará un contenido especial a Leia y al comandante Tarkin en el DVD de 'Rogue One' ",
+     "guid": "\n                                    http://www.ideal.es/jaen/culturas/cine/201703/29/lucasfilm-dedicara-especial-leia-20170329015817-rc.html\n                          ",
+     "link": "http://www.ideal.es/jaen/culturas/cine/201703/29/lucasfilm-dedicara-especial-leia-20170329015817-rc.html",
+     "pubDate": "Tue, 28 Mar 2017 22:14:23 +0200",
+     "description": " Carrie Fisher, que vió la película antes de morir, salió encantada de la proyección "
+    },
+    {
+     "title": " ¿Un carro de la compra gratis para Aldi? Cuidado con esta estafa masiva ",
+     "guid": "\n                                    http://www.ideal.es/sociedad/201703/29/carro-compra-gratis-para-20170328134520.html\n                          ",
+     "link": "http://www.ideal.es/sociedad/201703/29/carro-compra-gratis-para-20170328134520.html",
+     "pubDate": "Tue, 28 Mar 2017 21:10:57 +0200",
+     "description": " La Guardia Civil alerta en Twitter de los delincuentes que utilizan a la famosa cadena de supermercados para robar datos personales "
+    },
+    {
+     "title": " Nuestra esencia en el Congreso Internacional de Oleoturismo ",
+     "guid": "\n                                    http://www.ideal.es/jaen/jaen/201703/29/nuestra-esencia-congreso-internacional-20170329005235-v.html\n                          ",
+     "link": "http://www.ideal.es/jaen/jaen/201703/29/nuestra-esencia-congreso-internacional-20170329005235-v.html",
+     "pubDate": "Tue, 28 Mar 2017 21:31:17 +0200",
+     "description": " Hace no tanto tiempo, la cocina francesa era la que dominaba el mundo de la restauración, cocinar con mantequilla era «lo más», «lo nuevo». Esto ha cambiado "
+    },
+    {
+     "title": " «Hemos defendido Andalucía en Madrid» ",
+     "guid": "\n                                    http://www.ideal.es/jaen/culturas/201703/29/hemos-defendido-andalucia-madrid-20170329005234-v.html\n                          ",
+     "link": "http://www.ideal.es/jaen/culturas/201703/29/hemos-defendido-andalucia-madrid-20170329005234-v.html",
+     "pubDate": "Tue, 28 Mar 2017 21:33:59 +0200",
+     "description": " Hablamos de José Antonio Díaz Fernández, conocido como 'Chaquetón' "
+    },
+    {
+     "title": " Los peores vuelos del mundo ",
+     "guid": "\n                                    http://www.ideal.es/sociedad/201703/29/peores-vuelos-mundo-20170328113955.html\n                          ",
+     "link": "http://www.ideal.es/sociedad/201703/29/peores-vuelos-mundo-20170328113955.html",
+     "pubDate": "Tue, 28 Mar 2017 21:09:48 +0200",
+     "description": " El miedo a volar de un pasajero no es el único reto del personal de cabina, obligado a menudo a lidiar con personas beodas o agresivas "
+    },
+    {
+     "title": " Un borrón en el último minuto ",
+     "guid": "\n                                    http://www.ideal.es/jaen/deportes/futbol-provincial/201703/29/borron-ultimo-minuto-20170329005234-v.html\n                          ",
+     "link": "http://www.ideal.es/jaen/deportes/futbol-provincial/201703/29/borron-ultimo-minuto-20170329005234-v.html",
+     "pubDate": "Tue, 28 Mar 2017 21:36:03 +0200",
+     "description": " El Jaén Paraíso Interior FS cedió dos puntos vitales en su pugna por la cuarta plaza de la LNFS "
+    },
+    {
+     "title": " Martos: «Estoy a gusto, quiero renovar» ",
+     "guid": "\n                                    http://linaresdeportivo.ideal.es/noticias/201703/29/martos-estoy-gusto-quiero-20170329005234-v.html\n                          ",
+     "link": "http://linaresdeportivo.ideal.es/noticias/201703/29/martos-estoy-gusto-quiero-20170329005234-v.html",
+     "pubDate": "Tue, 28 Mar 2017 21:37:55 +0200",
+     "description": " El mediapunta analiza los dilemas de un Linares que busca cambiar de dinámica y cerrar la permanencia "
+    },
+    {
+     "title": " España renace y recupera su prestigio ",
+     "guid": "\n                                    http://www.ideal.es/jaen/deportes/futbol/seleccion-espanola/201703/28/saint-denis-inicio-catarsis-20170327155934-rc.html\n                          ",
+     "link": "http://www.ideal.es/jaen/deportes/futbol/seleccion-espanola/201703/28/saint-denis-inicio-catarsis-20170327155934-rc.html",
+     "pubDate": "Mon, 27 Mar 2017 20:12:54 +0200",
+     "description": " Tras dominar de manera clara en la primera mitad la aparición de Deulofeu, que forzó un penalti y marcó un gol, terminó con Francia "
+    },
+    {
+     "title": " Suecia le amarga a Cristiano Ronaldo el regreso a Madeira ",
+     "guid": "\n                                    http://www.ideal.es/jaen/deportes/futbol/201703/28/cristiano-ronaldo-reencuentra-pasado-20170328181304-rc.html\n                          ",
+     "link": "http://www.ideal.es/jaen/deportes/futbol/201703/28/cristiano-ronaldo-reencuentra-pasado-20170328181304-rc.html",
+     "pubDate": "Tue, 28 Mar 2017 14:23:39 +0200",
+     "description": " La selección escandinava se impone 'in extremis' a Portugal en un amistoso disputado horas antes de que el crack ponga su nombre al aeropuerto de Funchal "
+    },
+    {
+     "title": " Nadal ya está en cuartos en Miami ",
+     "guid": "\n                                    http://www.ideal.es/jaen/deportes/tenis/masters/201703/28/nadal-busca-pase-cuartos-20170328193646-rc.html\n                          ",
+     "link": "http://www.ideal.es/jaen/deportes/tenis/masters/201703/28/nadal-busca-pase-cuartos-20170328193646-rc.html",
+     "pubDate": "Tue, 28 Mar 2017 15:52:59 +0200",
+     "description": " El balear se impuso en dos sets al francés Mahut, número 55 del mundo, y se enfrentará al estadounidense Sock por un puesto en semifinales  "
+    },
+    {
+     "title": " Javier Fernández, contra todos por un tercer título mundial consecutivo ",
+     "guid": "\n                                    http://www.ideal.es/jaen/deportes/mas-deportes/201703/28/javier-fernandez-contra-todos-20170328174841-rc.html\n                          ",
+     "link": "http://www.ideal.es/jaen/deportes/mas-deportes/201703/28/javier-fernandez-contra-todos-20170328174841-rc.html",
+     "pubDate": "Tue, 28 Mar 2017 13:52:50 +0200",
+     "description": " El español se presenta en Helsinki tras conquistar su quinta corona europea y promete una batalla de cuádruples contra el japonés Hanyu y los norteamericanos Chan y Chen "
+    },
+    {
+     "title": " El Valencia da un primer paso hacia el título ",
+     "guid": "\n                                    http://www.ideal.es/jaen/deportes/baloncesto/201703/28/valencia-basket-unicaja-abren-20170328191232-rc.html\n                          ",
+     "link": "http://www.ideal.es/jaen/deportes/baloncesto/201703/28/valencia-basket-unicaja-abren-20170328191232-rc.html",
+     "pubDate": "Tue, 28 Mar 2017 15:34:57 +0200",
+     "description": " Dubljevic adelanta al equipo taronja en la final de la Eurocup, al mejor de tres partidos, ante un valiente Unicaja "
+    },
+    {
+     "title": " Membrado: «No soy ningún salvapatrias» ",
+     "guid": "\n                                    http://realjaen.ideal.es/noticias/201703/29/membrado-ningun-salvapatrias-20170329005232-v.html\n                          ",
+     "link": "http://realjaen.ideal.es/noticias/201703/29/membrado-ningun-salvapatrias-20170329005232-v.html",
+     "pubDate": "Tue, 28 Mar 2017 21:36:55 +0200",
+     "description": " El nuevo máximo accionista del Real Jaén aseguró ayer que no viene «a poner dinero, si no a gestionar» "
+    },
+    {
+     "title": " Localizados en Torredelcampo camiones que servían como almacenaje itinerante de residuos tóxicos ",
+     "guid": "\n                                    http://www.ideal.es/jaen/provincia-jaen/201703/28/localizados-torredelcampo-camiones-servian-20170328150246.html\n                          ",
+     "link": "http://www.ideal.es/jaen/provincia-jaen/201703/28/localizados-torredelcampo-camiones-servian-20170328150246.html",
+     "pubDate": "Tue, 28 Mar 2017 11:03:08 +0200",
+     "description": " Los vehículos se estacionaban en un parking público municipal hasta que lograban completar su carga "
+    },
+    {
+     "title": " Aspramif estrena residencia con piscina adaptada, laserterapia y habitaciones inteligentes ",
+     "guid": "\n                                    http://www.ideal.es/jaen/jaen/201703/28/aspramif-estrena-residencia-piscina-20170328191537.html\n                          ",
+     "link": "http://www.ideal.es/jaen/jaen/201703/28/aspramif-estrena-residencia-piscina-20170328191537.html",
+     "pubDate": "Tue, 28 Mar 2017 15:18:20 +0200",
+     "description": " Con una inversión de casi cuatro millones y capacidad para 24 usuarios a la vez, cuenta con magnetoterapia y otras prestaciones, «única en Andalucía oriental», para personas con discapacidad gravemente afectadas "
+    },
+    {
+     "title": " Una fuerte explosión en un piso de Úbeda obliga a desalojar todo un bloque ",
+     "guid": "\n                                    http://ubeda.ideal.es/ubeda/noticias/201703/28/fuerte-explosion-piso-ubeda-20170328130547.html\n                          ",
+     "link": "http://ubeda.ideal.es/ubeda/noticias/201703/28/fuerte-explosion-piso-ubeda-20170328130547.html",
+     "pubDate": "Tue, 28 Mar 2017 09:08:19 +0200",
+     "description": " No ha habido heridos aunque sí cuantiosos daños materiales "
+    },
+    {
+     "title": " El Congreso deja en suspenso un posible apercibimiento a Diego Cañamero ",
+     "guid": "\n                                    http://www.ideal.es/jaen/jaen/201703/28/podemos-defiende-canamero-psoe-20170328113845.html\n                          ",
+     "link": "http://www.ideal.es/jaen/jaen/201703/28/podemos-defiende-canamero-psoe-20170328113845.html",
+     "pubDate": "Tue, 28 Mar 2017 07:39:09 +0200",
+     "description": " Se busca algún tipo de encaje reglamentario al no existir precedentes de un episodio similar "
+    },
+    {
+     "title": " May firma la carta con la que notificará a la UE el inicio del 'Brexit' ",
+     "guid": "\n                                    http://www.ideal.es/internacional/union-europea/201703/29/firma-carta-notificara-inicio-20170328233540-rc.html\n                          ",
+     "link": "http://www.ideal.es/internacional/union-europea/201703/29/firma-carta-notificara-inicio-20170328233540-rc.html",
+     "pubDate": "Tue, 28 Mar 2017 19:44:10 +0200",
+     "description": " La 'premier' ha permitido a la prensa británica fotografiar el momento en el que ha estampado su rúbrica en el documento, en la sede del Gobierno, en el número 10 de Downing Street "
+    },
+    {
+     "title": " Álvarez-Cascos, Acebes, Arenas, Rato y Mayor Oreja testificarán en el juicio el 19 y 20 de junio ",
+     "guid": "\n                                    http://www.ideal.es/nacional/201703/28/alvarez-cascos-acebes-arenas-20170328183315-rc.html\n                          ",
+     "link": "http://www.ideal.es/nacional/201703/28/alvarez-cascos-acebes-arenas-20170328183315-rc.html",
+     "pubDate": "Tue, 28 Mar 2017 14:44:37 +0200",
+     "description": " La comparecencia de todos ellos fue solicitada por el extesorero del PP Luis Bárcenas "
+    },
+    {
+     "title": " De La Calle: \"La mitad de las plazas de escuelas infantiles serán gratuitas\" ",
+     "guid": "\n                                    http://www.ideal.es/andalucia/201703/28/calle-mitad-plazas-escuelas-20170328142331.html\n                          ",
+     "link": "http://www.ideal.es/andalucia/201703/28/calle-mitad-plazas-escuelas-20170328142331.html",
+     "pubDate": "Tue, 28 Mar 2017 10:28:16 +0200",
+     "description": " La consejera defiende el nuevo modelo de ayudas, que elevara el número de \"centros, plazas y bonificaciones a las familias\" "
+    },
+    {
+     "title": " Parte del dinero del caso de los ERE se gastó en cocaína y copas ",
+     "guid": "\n                                    http://www.ideal.es/nacional/201703/28/parte-dinero-caso-gasto-20170328192632-rc.html\n                          ",
+     "link": "http://www.ideal.es/nacional/201703/28/parte-dinero-caso-gasto-20170328192632-rc.html",
+     "pubDate": "Tue, 28 Mar 2017 15:32:14 +0200",
+     "description": " Piden 14 años a Guerrero y a su chófer por los 1,4 millones de euros gastados "
+    },
+    {
+     "title": " Detenido en Badajoz un hombre que enviaba fotos de menores desnudas a través del móvil ",
+     "guid": "\n                                    http://www.ideal.es/nacional/201703/28/detenido-badajoz-hombre-enviaba-20170328184526-rc.html\n                          ",
+     "link": "http://www.ideal.es/nacional/201703/28/detenido-badajoz-hombre-enviaba-20170328184526-rc.html",
+     "pubDate": "Tue, 28 Mar 2017 14:47:20 +0200",
+     "description": " El hombre de 51 años llegó a ofrecer en una ocasión a una de las jóvenes mantener relaciones sexuales "
+    },
+    {
+     "title": " Trump declara el fin de «la guerra al carbón» y de las regulaciones que «matan empleos» ",
+     "guid": "\n                                    http://www.ideal.es/internacional/eeuu/201703/28/trump-declara-guerra-carbon-20170328205512-rc.html\n                          ",
+     "link": "http://www.ideal.es/internacional/eeuu/201703/28/trump-declara-guerra-carbon-20170328205512-rc.html",
+     "pubDate": "Tue, 28 Mar 2017 17:04:06 +0200",
+     "description": " El presidente estadounidense ha anticipado una \"nueva revolución energética\", centrada en fomentar la producción nacional, desde la sede de la Agencia de Protección Medioambiental "
+    },
+    {
+     "title": " Campaña para que se cumplan los acuerdos de mejora de transporte para el Bulevar ",
+     "guid": "\n                                    http://www.ideal.es/jaen/jaen/201703/28/campana-para-cumplan-acuerdos-20170328142307.html\n                          ",
+     "link": "http://www.ideal.es/jaen/jaen/201703/28/campana-para-cumplan-acuerdos-20170328142307.html",
+     "pubDate": "Tue, 28 Mar 2017 10:23:32 +0200",
+     "description": " Matilde Cruz recuerda que \"el alcalde está obligado a cumplir las tres peticiones socialistas para este barrio que salieron adelante en pleno\" "
+    },
+    {
+     "title": " El alcalde: \"La Junta no ha hecho la Ciudad de la Justicia porque no da votos\" ",
+     "guid": "\n                                    http://www.ideal.es/jaen/jaen/201703/28/alcalde-junta-hecho-ciudad-20170328155826.html\n                          ",
+     "link": "http://www.ideal.es/jaen/jaen/201703/28/alcalde-junta-hecho-ciudad-20170328155826.html",
+     "pubDate": "Tue, 28 Mar 2017 11:59:00 +0200",
+     "description": " \"Nadie quiere ir a un juzgado y da más votos montarse en un tranvía que ir a un juzgado\", ha indicado Márquez en rueda de prensa "
+    },
+    {
+     "title": " Esta fue la sentencia de muerte de Miguel Hernández ",
+     "guid": "\n                                    http://www.ideal.es/jaen/culturas/201703/28/esta-sentencia-muerte-miguel-20170328163901.html\n                          ",
+     "link": "http://www.ideal.es/jaen/culturas/201703/28/esta-sentencia-muerte-miguel-20170328163901.html",
+     "pubDate": "Tue, 28 Mar 2017 12:39:21 +0200",
+     "description": " Las razones de su condena las da el llamado Tribunal de Prensa "
+    },
+    {
+     "title": " La Orquesta Ramón Garay ofrecerá el domingo el concierto 'Pasión Sinfónica' en el Teatro Darymelia ",
+     "guid": "\n                                    http://www.ideal.es/jaen/culturas/musica/201703/28/orquesta-ramon-garay-ofrecera-20170328130238.html\n                          ",
+     "link": "http://www.ideal.es/jaen/culturas/musica/201703/28/orquesta-ramon-garay-ofrecera-20170328130238.html",
+     "pubDate": "Tue, 28 Mar 2017 09:03:04 +0200",
+     "description": " Bajo la dirección de Francisco Bernal, presentará un repertorio basado en marchas procesionales adaptadas por grandes maestros para orquesta sinfónica "
+    },
+    {
+     "title": " Jaén elige a Leticia Coma como Top Model España 2017  ",
+     "guid": "\n                                    http://www.ideal.es/jaen/jaen/201703/28/jaen-elige-leticia-coma-20170328200110.html\n                          ",
+     "link": "http://www.ideal.es/jaen/jaen/201703/28/jaen-elige-leticia-coma-20170328200110.html",
+     "pubDate": "Tue, 28 Mar 2017 16:03:18 +0200",
+     "description": " Representará al país en el certamen mundial "
+    },
+    {
+     "title": " Japón limitará las horas extra para evitar las muertes por exceso de trabajo ",
+     "guid": "\n                                    http://www.ideal.es/sociedad/201703/29/japon-limitara-horas-extra-20170328152735.html\n                          ",
+     "link": "http://www.ideal.es/sociedad/201703/29/japon-limitara-horas-extra-20170328152735.html",
+     "pubDate": "Tue, 28 Mar 2017 20:55:40 +0200",
+     "description": " El Gobierno ha presentado un plan mediante el cual las horas extra que podrán trabajar los empleados no deberán superar las 100 horas mensuales "
+    },
+    {
+     "title": " Solos ante la marea humana ",
+     "guid": "\n                                    http://www.ideal.es/sociedad/201703/29/solos-ante-marea-humana-20170328113710.html\n                          ",
+     "link": "http://www.ideal.es/sociedad/201703/29/solos-ante-marea-humana-20170328113710.html",
+     "pubDate": "Tue, 28 Mar 2017 20:53:08 +0200",
+     "description": " La fragata ?Canarias?, destinada en el Mediterráneo para combatir a las mafias que trafican con inmigrantes, rescata en 12 agónicas horas a más de 1.800 personas a la deriva en 14 pateras. Los pusieron a salvo a todos y ayudaron a nacer a Emanuele "
+    },
+    {
+     "title": " El cabreo de Juan Echanove por su despido de 'Cuéntame' ",
+     "guid": "\n                                    http://www.ideal.es/gente-estilo/201703/28/cabreo-juan-echanove-despido-20170328110707.html\n                          ",
+     "link": "http://www.ideal.es/gente-estilo/201703/28/cabreo-juan-echanove-despido-20170328110707.html",
+     "pubDate": "Tue, 28 Mar 2017 07:11:51 +0200",
+     "description": " \"Me dicen que es un personaje demasiado pequeño para tan gran actor, y yo ahí flipo\", explica el actor "
+    },
+    {
+     "title": " Viaje gratis a otro país de la UE para 7.000 estudiantes  ",
+     "guid": "\n                                    http://www.ideal.es/sociedad/201703/28/viaje-gratis-otro-pais-20170327164703.html\n                          ",
+     "link": "http://www.ideal.es/sociedad/201703/28/viaje-gratis-otro-pais-20170327164703.html",
+     "pubDate": "Mon, 27 Mar 2017 21:06:54 +0200",
+     "description": " El viaje durará como máximo dos semanas, con un precio máximo de 350 euros y con el coste de alojamiento a cargo de los estudiantes "
+    }
+   ]
+  }
+ }
+}
